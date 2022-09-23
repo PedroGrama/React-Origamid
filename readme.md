@@ -1,2 +1,2 @@
 Meu repositório Git ==================== 
-Apenas repositório Git
+Projeto para exercicios react
